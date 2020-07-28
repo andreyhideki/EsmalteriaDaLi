@@ -1,2 +1,10 @@
-www.esmalteriadali.com.br. CNAME andreyhideki.github.io/EsmalteriaDaLi
-esmalteriadali.com.br. CNAME andreyhideki.github.io/EsmalteriaDaLi
+andreyhideki.github.io/EsmalteriaDaLi CNAME www.esmalteriadali.com.br
+andreyhideki.github.io/EsmalteriaDaLi CNAME esmalteriadali.com.br
+esmalteriadali.com.br.	A	185.199.108.153
+esmalteriadali.com.br.	A	185.199.109.153
+esmalteriadali.com.br.	A	185.199.110.15
+esmalteriadali.com.br.	A	185.199.111.153
+www.esmalteriadali.com.br.	A	185.199.108.153
+www.esmalteriadali.com.br.	A	185.199.109.153
+www.esmalteriadali.com.br.	A	185.199.110.153
+www.esmalteriadali.com.br.	A	185.199.111.153
